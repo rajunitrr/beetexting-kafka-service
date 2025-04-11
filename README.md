@@ -19,3 +19,8 @@ Produce a Message C:\MyDrive\Study\docker>docker exec -it 778a030f1381 /opt/kafk
 Hello from Docker! ^C
 
 Consume a Message C:\MyDrive\Study\docker>docker exec -it 778a030f1381 /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic my-topic --from-beginning Hello from Docker!
+
+
+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
+
+======================================================
